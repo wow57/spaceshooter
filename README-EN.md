@@ -1,3 +1,4 @@
+# [🇬🇧🇺🇸 ENGLISH VERSION](https://github.com/wow57/spaceshooter/blob/main/README-EN.md) / [🇷🇺 РУССКАЯ ВЕРСИЯ](https://github.com/wow57/spaceshooter/blob/main/README-RU.md) #
 # **Welcome to the “Space Shooter”!**
 
 ![icon](https://github.com/user-attachments/assets/36329417-3771-4732-b329-ce8a1f6f3d48)
